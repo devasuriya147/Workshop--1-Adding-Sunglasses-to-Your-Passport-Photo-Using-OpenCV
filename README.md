@@ -27,6 +27,7 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 
 ## PROGRAM AND OUTPUT:
 ```
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -133,5 +134,14 @@ plt.axis("off")
 plt.show()
 
 ```
+<img width="476" height="557" alt="image" src="https://github.com/user-attachments/assets/fd4afbd2-92e8-436d-b095-17d1a1d176fe" />
+
+<img width="722" height="371" alt="image" src="https://github.com/user-attachments/assets/97e3a607-85a6-4c19-a65e-b9f26e70e60f" />
+
+<img width="1367" height="332" alt="image" src="https://github.com/user-attachments/assets/b77e5c93-0520-47e6-9d82-64d5b0333af8" />
+
+<img width="590" height="687" alt="image" src="https://github.com/user-attachments/assets/15def91e-cf00-4f8c-aef3-ca972ac0b694" />
+
+
 
 
